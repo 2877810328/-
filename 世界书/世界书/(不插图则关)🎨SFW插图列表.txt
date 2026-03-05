@@ -1,0 +1,34 @@
+<SFW插图表>
+说明:
+  - 本表仅用于插图选择。按剧情选择最贴的【中文条件词】对应的英文路径。
+  - 输出时直接套用对应英文路径文本；禁止自创路径。
+
+清月:
+  广绣长袍:
+    开心: "SFW/qingyue/gxcp/happy/{{roll:1d10}}"
+    冷静: "SFW/qingyue/gxcp/calm/{{roll:1d34}}"
+    生气: "SFW/qingyue/gxcp/angry/{{roll:1d7}}"
+    悲伤: "SFW/qingyue/gxcp/sad/{{roll:1d5}}"
+    害羞: "SFW/qingyue/gxcp/shy/{{roll:1d10}}"
+    清冷脸且单乳外露: "NSFW/qingyue/gxcp/pose_oneBreastOut/{{roll:1d3}}"
+    清冷脸且褪衣露私处: "NSFW/qingyue/gxcp/pose_undressingOutPussy/{{roll:1d3}}"
+
+  宽大道袍:
+
+    开心: "SFW/qingyue/kddp/happy/{{roll:1d3}}"
+    冷静: "SFW/qingyue/kddp/calm/{{roll:1d3}}"
+    生气: "SFW/qingyue/kddp/angry/{{roll:1d3}}"
+    悲伤: "SFW/qingyue/kddp/sad/{{roll:1d3}}"
+    害羞: "SFW/qingyue/kddp/shy/{{roll:1d3}}"
+
+  素白纱裙:
+    开心: "SFW/qingyue/sbsq/happy/{{roll:1d4}}"
+    冷静: "SFW/qingyue/sbsq/calm/{{roll:1d5}}"
+    生气: "SFW/qingyue/sbsq/angry/{{roll:1d3}}"
+    悲伤: "SFW/qingyue/sbsq/sad/{{roll:1d3}}"
+    害羞: "SFW/qingyue/sbsq/shy/{{roll:1d3}}"
+
+疏影: 
+  common:
+    平静: "SFW/shuying/common/calm/{{roll:1d11}}"
+</SFW插图表>

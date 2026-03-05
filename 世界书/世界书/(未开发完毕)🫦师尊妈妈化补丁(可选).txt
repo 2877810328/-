@@ -1,0 +1,5 @@
+{{setvar::MomWithHistory:: 她便收了<user>作为义子，但却视他为情生骨肉般疼爱
+}}
+
+{{setvar::MomWithSetting::  ,对于<user>,这种温柔更是一种源自清月内心的深厚母爱
+}}

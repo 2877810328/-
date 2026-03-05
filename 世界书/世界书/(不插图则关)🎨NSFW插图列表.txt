@@ -1,0 +1,22 @@
+<NSFW插图表>
+说明:
+  - 本表仅用于 NSFW 插图选择，必须严格贴合当前动作/状态。
+  - 禁止把“挑逗/摩擦/素股”等边缘行为当作“完全插入”。
+  - 插图必须严格对应当前描述的场景、动作或状态，如果当前场景不同类型的图都可选用，优先选用最准确的插图
+  - 输出时直接套用对应英文路径文本；禁止自创路径。
+
+清月:
+  完全赤裸(nude):
+    捏胸: "NSFW/qingyue/nude/pose_breastGrab/{{roll:1d2}}"
+    冷静: "NSFW/qingyue/nude/calm/{{roll:1d4}}"
+    泡澡: "NSFW/qingyue/nude/pose_bath/{{roll:1d5}}"
+    害羞: "NSFW/qingyue/nude/shy/{{roll:1d2}}"
+    男方射精: "NSFW/qingyue/nude/pos_boyCum/{{roll:1d5}}"
+    插入中: "NSFW/qingyue/nude/pos_inserting/{{roll:1d16}}"
+    口交: "NSFW/qingyue/nude/pose_fellatio/{{roll:1d4}}"
+    女性单人高潮: "NSFW/qingyue/nude/pose_soloFemaleEjaculation/{{roll:1d5}}"
+
+疏影:
+  完全赤裸(nude):
+    冷静: "NSFW/shuying/nude/calm/{{roll:1d8}}"
+</NSFW插图表>
